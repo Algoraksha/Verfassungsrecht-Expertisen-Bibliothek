@@ -1,4 +1,4 @@
-# 🏛️ Verfassungsrechtliche & Forensisch-Psychologische Expertisen-Bibliothek
+# 🏛️ Verfassungsrechtliche & Forensische Expertisen-Bibliothek
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Offizielles%20Archiv-blue.svg)
@@ -14,25 +14,26 @@
 
 Dieses Repository dient als unpfändbares, frei zugängliches Open-Source-Archiv für verfassungsrechtliche und forensisch-psychologische Expertisen zur Abwehr von Behördenwillkür, Inobhutnahmeschikanen und rechtswidrigen Grundrechtseinschränkungen:
 
-### ⚖️ I. Verfassungsrechtliche Expertisen (Algoraksha)
-* **[01_Expertise_Zitiergebot_Art19_GG.md](01_Expertise_Zitiergebot_Art19_GG.md):** Formelle Verfassungswidrigkeit & Nichtigkeit (*BVerfG 1 BvR 668/04*).
-* **[02_Expertise_Dauergrundrechtsgewaehrleistung_Art1_GG.md](02_Expertise_Dauergrundrechtsgewaehrleistung_Art1_GG.md):** Das Feuerwehr-Prinzip der Vorleistungspflicht (§ 43 SGB I).
-* **[03_Expertise_SGBII_Antragsruecknahme_BSG.md](03_Expertise_SGBII_Antragsruecknahme_BSG.md):** Gesetzliche Dispositionsfreiheit des Souveräns (*BSG B 4 AS 22/14 R*).
-* **[04_Praezedenzfall_SG_Muenchen_S16AS325011ER.md](04_Praezedenzfall_SG_Muenchen_S16AS325011ER.md):** Beschluss-Analyse SG München (Grundgesetz-Höherrang).
+### ⚔️ I. Verfassungsrechtliche Master-Expertisen (Algoraksha)
+*Ordner: **[`Verfassungsrechtliche_Expertisen_Algoraksha/`](Verfassungsrechtliche_Expertisen_Algoraksha/)***
+
+* 📜 **Artikel 6 GG & Familienschutz:** `VERFASSUNGSSTATIK_ARGUMENTATION_ART6_GG.md`
+* 🛡️ **Existenzsicherung (BVerfG 1 BvL 7/16):** `VERFASSUNGSSTATIK_EXISTENZSICHERUNG_1BvL7_16.md`
+* ⚖️ **Anwaltszwang-Nichtigkeit & BVerfG-Rüge:** `VERFASSUNGSBESCHWERDE_TITAN_OPTIMIERT_BVERFG.md`
+* 🌍 **UN-Resolution 53/144 & Völkerrecht:** `VERFASSUNGSINTERVENTION_MENSCHENRECHTSVERTEIDIGER_TITAN_OPTIMIERT.md`
+* ⚡ **SGB II Sanktionen Verfassungswidrigkeit:** `SCHRIFTSATZ_TITAN_5.2_SANKTION_OPTIMIERT.md`
+* 🛑 **Strafbefehlsverfahren Verfassungswidrigkeit:** `schriftsatz_strafbefehlsverfahren_verfassungswidrig.md`
+* 💥 **Nukleare Verfassungsbeschwerde:** `VERFASSUNGSBESCHWERDE_NUKLEARER_GEGENANGRIFF_TITAN_OPTIMIERT.md`
+* 🏛️ **Zitiergebot (Art. 19 GG):** `01_Expertise_Zitiergebot_Art19_GG.md`
+* 🚒 **Dauergrundrechtsgewährleistung (Art. 1 GG):** `02_Expertise_Dauergrundrechtsgewaehrleistung_Art1_GG.md`
+* 🔄 **BSG Antragsrücknahme (B 4 AS 22/14 R):** `03_Expertise_SGBII_Antragsruecknahme_BSG.md`
+* 📍 **SG München Präzedenzfall (S 16 AS 3250/11 ER):** `04_Praezedenzfall_SG_Muenchen_S16AS325011ER.md`
 
 ---
 
 ### 🧠 II. Forensisch-Psychologische Expertisen (Diplom-Psychologin Hicran Taraz)
-*Vollständige Sammlung von 31 wissenschaftlichen & fachlichen Gutachten zum Kindeswohl, § 8a SGB VIII Gefährdungseinschätzung, Inobhutnahme-Schutz und Biopsychosozialer Kontinuität:*
-
-📍 Ordner: **[`Expertisen_Diplom_Psychologin_Hicran_Taraz/`](Expertisen_Diplom_Psychologin_Hicran_Taraz/)**
-
-* 📄 **Kindeswohl & Kontinuität:** `Fachliche_Psychologische_Expertise_Kindeswohl.pdf`, `Expertise_biopsychosoziale_Kontinuität.pdf`
-* 📄 **§ 8a SGB VIII Gefährdungseinschätzung:** `Psychologische-Expertise-Gefährdungseinschätzung-8aSGBVIII.pdf`, `General-Expertise-Kinderschutz.pdf`
-* 📄 **Jugendamt-Kontrolle & Inobhutnahmen:** `Gutachten_Kontrolle_von_Jugendämtern_Inobhutnahmen.pdf`, `Expertise_zu_Grundrechtskonformität_Inobhutnahmen.pdf`
-* 📄 **Rechte nach § 1685 BGB:** `Psychologische_Expertise_1685_BGB.pdf`, `Expertise-1685BGB-Fallbeispiel.pdf`
-* 📄 **Gefährdung durch Behörden:** `Psychologische-Expertise-Gefährdung-durch-Behörden.pdf`
-* 📄 **UN-Kinderrechtskonvention:** `Übereinkommen_über_die_Rechte_des_Kindes.pdf`
+*Ordner: **[`Expertisen_Diplom_Psychologin_Hicran_Taraz/`](Expertisen_Diplom_Psychologin_Hicran_Taraz/)***
+*Vollständige Sammlung von 31 wissenschaftlichen & fachlichen Gutachten zum Kindeswohl, § 8a SGB VIII Gefährdungseinschätzung, Inobhutnahme-Schutz und Biopsychosozialer Kontinuität.*
 
 ---
 
